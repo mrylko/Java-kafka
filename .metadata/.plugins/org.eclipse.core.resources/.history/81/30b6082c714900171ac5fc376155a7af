@@ -1,0 +1,5 @@
+package com.kafkalearn.comsumer;
+
+public class ConsumerCafkaManualOffset {
+
+}

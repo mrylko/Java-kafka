@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.KafkaProducer"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.ProducerRecord"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.Partitioner"/>
+<fullyQualifiedTypeName name="com.kafkalearn.partitioner.ProducerKafkaPartitioner"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecord"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.KafkaConsumer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecords"/>
+</qualifiedTypeNameHistroy>
